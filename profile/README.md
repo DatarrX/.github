@@ -1,4 +1,4 @@
-# **DatarrX Foundation | ဒေတာ-အက်စ် ဖောင်ဒေးရှင်း**
+# **DatarrX | ဒေတာ-အက်စ်**
 >Rooting Burmese into AI.
 
 ---
