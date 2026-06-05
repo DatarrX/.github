@@ -1,5 +1,5 @@
 # **DatarrX | ဒေတာ-အက်စ်**
->Rooting Burmese into AI.
+>Rooting Burmese into AI. | မြန်မာစာကို AI လောကသို့ အမြစ်တွယ်စေရန်။
 
 ---
 
@@ -8,23 +8,31 @@ DatarrX is a non-profit open-source foundation dedicated to building a robust di
 
 DatarrX သည် AI ခေတ်တွင် မြန်မာဘာသာစကားအတွက် ခိုင်မာသော ဒစ်ဂျစ်တယ်အခြေခံအုတ်မြစ်ကို တည်ဆောက်ပေးနေသည့် အကျိုးအမြတ်မယူသော Open-source Foundation တစ်ခု ဖြစ်သည်။ အရည်အသွေးမြင့် ဒေတာများသည် AI နည်းပညာသစ်များ၏ အဓိကကျောရိုးဖြစ်သည်ဟု ကျွန်ုပ်တို့ ယုံကြည်ပါသည်။
 
+### The DatarrX Meaning
+**"Defining the Unknown through Rigorous Data Research."**
+
+* **Data** — The Foundation: AI ခေတ်၏ အခြေခံအုတ်မြစ်။
+* **r** — Research: အချက်အလက်များကို သိပ္ပံနည်းကျ လေ့လာခြင်း။
+* **r** — Rigor: အရည်အသွေးကို စံနှုန်းမီ စိစစ်ခြင်း။
+* **X** — The Variable: AI တွင် လိုအပ်နေသော အစိတ်အပိုင်းများကို ဒေတာဖြင့် ဖြည့်ဆည်းခြင်း။
 ---
 
 ## 🎯 Vision & Mission
-**Vision** 
-- To transform Burmese from a low-resource language into a data-rich foundation for next-generation AI innovation.
-- မြန်မာဘာသာစကားကို ဒေတာရှားပါးသည့် အဆင့်မှသည် အနာဂတ် AI နည်းပညာသစ်များအတွက် အားကိုးအားထားပြုနိုင်သည့် ဒေတာကြွယ်ဝသော ဘာသာစကားအခြေခံအုတ်မြစ်ဖြစ်လာစေရန်။
+**Vision**
+- To advance the Burmese language in the AI era by building a robust and trustworthy digital data foundation.
+- မြန်မာဘာသာစကားအတွက် ယုံကြည်စိတ်ချရသည့် ဒစ်ဂျစ်တယ်ဒေတာ အခြေခံအုတ်မြစ်များကို တည်ဆောက်ခြင်းဖြင့် AI နည်းပညာနယ်ပယ်တွင် မြန်မာ့ဘာသာစကား၏ စွမ်းဆောင်ရည်ကို မြှင့်တင်ပေးရန်။
 
-**Mission** 
-- Building high-quality open-source datasets and essential AI tools while localizing technical documentation to empower the Burmese AI ecosystem.
-- မြန်မာ့ AI ဂေဟစနစ်ကို အထောက်အကူပြုရန်အတွက် အရည်အသွေးမြင့် Open-source ဒေတာများ၊ အခြေခံ AI ကိရိယာများနှင့် နည်းပညာဆိုင်ရာ လမ်းညွှန်စာတမ်းများကို မြန်မာဘာသာဖြင့် စနစ်တကျ ပြုစုပျိုးထောင်ပေးရန်။
+**Mission**
+- To bridge the Burmese data gap by curating high-quality, scientifically validated open-source datasets for AI innovation.
+- သိပ္ပံနည်းကျ စနစ်တကျ စိစစ်ထားသည့် Open-source ဒေတာများကို ဖန်တီးပေးခြင်းဖြင့်၊ AI နည်းပညာ တီထွင်ဖန်တီးသူများအတွက် အရည်အသွေးမြင့်မားသော ဒေတာအရင်းအမြစ်များကို ထောက်ပံ့ပေးရန်။
 
 ---
 
 ## ✨ Core Values
-* **Openness - ပွင့်လင်းမှု** 
-* **Accuracy - တိကျမှု** 
-* **Collaboration - ပူးပေါင်းဆောင်ရွက်မှု**
+
+* **Openness - ပွင့်လင်းမှု:** Sharing all data and processes transparently.
+* **Accuracy - တိကျမှု:** Maintaining uncompromising quality through scientific validation.
+* **Collaboration - ပူးပေါင်းဆောင်ရွက်မှု:** Building the Burmese AI ecosystem together.
 
 ---
 
@@ -32,5 +40,7 @@ DatarrX သည် AI ခေတ်တွင် မြန်မာဘာသာစ�
 We are a community-driven foundation. Whether you're a developer, a linguist, or a tech enthusiast, we welcome your contribution. Help us gather data, translate resources, or share your insights, every bit of help counts!
 
 သင်က Developer တစ်ယောက် ဖြစ်စရာ မလိုပါဘူး။ မြန်မာစာ တိုးတက်ရေးမှာ ပါဝင်ချင်တဲ့ စိတ်ရှိရင်ပဲ လုံလောက်ပါပြီ။ ဒေတာတွေ ကူစုပေးမလား၊ ဘာသာပြန်ပေးမလား၊ ဒါမှမဟုတ် အကြံဉာဏ်တွေ ပေးမလား။ DatarrX က သင့်ကို အမြဲ ကြိုဆိုနေပါတယ်။
+
+**Official Website:** [datarrx.org](https://datarrx.org)
 
 [GitHub](https://github.com/DatarrX) | [Hugging Face](https://huggingface.co/DatarrX) | [Kaggle](https://www.kaggle.com/organizations/datarrx-)
