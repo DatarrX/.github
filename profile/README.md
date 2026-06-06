@@ -19,12 +19,12 @@ DatarrX သည် AI ခေတ်တွင် မြန်မာဘာသာစ�
 
 ## 🎯 Vision & Mission
 **Vision**
-- To advance the Burmese language in the AI era by building a robust and trustworthy digital data foundation.
-- မြန်မာဘာသာစကားအတွက် ယုံကြည်စိတ်ချရသည့် ဒစ်ဂျစ်တယ်ဒေတာ အခြေခံအုတ်မြစ်များကို တည်ဆောက်ခြင်းဖြင့် AI နည်းပညာနယ်ပယ်တွင် မြန်မာ့ဘာသာစကား၏ စွမ်းဆောင်ရည်ကို မြှင့်တင်ပေးရန်။
+- To transform Burmese from a data-scarce language into a robust and trustworthy foundation for AI innovation.
+- မြန်မာဘာသာစကားကို ဒေတာရှားပါးသည့် အခြေအနေမှ ရုန်းထွက်စေပြီး၊ AI နည်းပညာနယ်ပယ်အတွက် ယုံကြည်စိတ်ချရသည့် ဒစ်ဂျစ်တယ်ဒေတာ အခြေခံအုတ်မြစ်များကို တည်ဆောက်ပေးရန်။
 
 **Mission**
-- To bridge the Burmese data gap by curating high-quality, scientifically validated open-source datasets for AI innovation.
-- သိပ္ပံနည်းကျ စနစ်တကျ စိစစ်ထားသည့် Open-source ဒေတာများကို ဖန်တီးပေးခြင်းဖြင့်၊ AI နည်းပညာ တီထွင်ဖန်တီးသူများအတွက် အရည်အသွေးမြင့်မားသော ဒေတာအရင်းအမြစ်များကို ထောက်ပံ့ပေးရန်။
+- To empower the Burmese AI ecosystem by curating and providing high-quality, reliable open-source datasets.
+- အရည်အသွေးမြင့်မားပြီး ယုံကြည်အားထားရသော Open-source ဒေတာများကို စနစ်တကျ ပြုစုပေးခြင်းဖြင့်၊ AI နည်းပညာ တီထွင်ဖန်တီးသူများအတွက် အခြေခံအရင်းအမြစ်များကို ဖြည့်ဆည်းပေးရန်။
 
 ---
 
